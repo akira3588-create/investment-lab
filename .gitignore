@@ -1,0 +1,20 @@
+# 機密情報
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+
+# 依存関係
+node_modules/
+__pycache__/
+*.pyc
+
+# ログ
+*.log
